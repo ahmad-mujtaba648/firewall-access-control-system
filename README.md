@@ -4,13 +4,13 @@
 
 ---
 
-# About the Project
+## About the Project
 
 This project simulates a real-world **firewall access control system** that checks whether an IP address is authorized and whether the requested port is allowed. Built using Python dictionaries with nested lists and conditional logic, as part of my Dictionaries & Sets practice.
 
 ---
 
-# How It Works
+## How It Works
 
 | Scenario | Output |
 |----------|--------|
@@ -20,7 +20,7 @@ This project simulates a real-world **firewall access control system** that chec
 
 ---
 
-# Sample Output
+## Sample Output
 
 **Output 1** — Known IP `10.0.0.5` with allowed port `8080` → Access Granted
 
@@ -36,7 +36,7 @@ This project simulates a real-world **firewall access control system** that chec
 
 ---
 
-# How to Run
+## How to Run
 
 1. Make sure Python is installed on your system
 2. Clone this repository:
@@ -46,7 +46,7 @@ This project simulates a real-world **firewall access control system** that chec
 
 ---
 
-# Concepts Practiced
+## Concepts Practiced
 
 - Dictionaries with nested list values
 - `in` operator for key lookup
@@ -56,7 +56,7 @@ This project simulates a real-world **firewall access control system** that chec
 
 ---
 
-# Challenges Faced & Lessons Learned
+## Challenges Faced & Lessons Learned
 
 | Challenge | What I Learned |
 |-----------|----------------|
@@ -68,7 +68,7 @@ This project simulates a real-world **firewall access control system** that chec
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
