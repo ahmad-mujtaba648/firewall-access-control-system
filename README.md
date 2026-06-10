@@ -23,10 +23,12 @@ This project simulates a real-world **firewall access control system** that chec
 ## Sample Output
 
 **Output 1** — Known IP `10.0.0.5` with allowed port `8080` → Access Granted
+---
 
 ![Output 1](output-1.png)
 
 **Output 2** — Known IP `192.168.1.1` with unauthorized port `10` → Access Denied
+---
 
 ![Output 2](output-2.png)
 
